@@ -1,3 +1,3 @@
-# Project-Euler
+# Project-Euler-Solutions
 
-Problem solutions contributed by Arav and Nicholas 
+
